@@ -87,12 +87,12 @@ export type CardData = {
 };
 
 export const DEFAULT_CARD: CardData = {
-  name: 'Alex Rivera',
+  name: 'Yohant',
   title: 'Maker and tinkerer',
   icon: 'zap',
-  about: 'Building small things that blink. Say hi @alexmakes',
-  links: [{ label: 'Portfolio', url: 'alexrivera.dev' }],
-  handles: { alexmakes: 'instagram' },
+  about: 'Building small things that blink. Say hi @yohantdegoat',
+  links: [{}],
+  handles: { yohant: 'instagram' },
   urls: {},
   ratio: '3:2',
   primary: THEMES.graphite.primary,
