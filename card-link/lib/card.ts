@@ -91,7 +91,7 @@ export const DEFAULT_CARD: CardData = {
   title: 'Maker and tinkerer',
   icon: 'zap',
   about: 'Building small things that blink. Say hi @yohantdegoat',
-  links: [{}],
+  links: [],
   handles: { yohant: 'instagram' },
   urls: {},
   ratio: '3:2',
