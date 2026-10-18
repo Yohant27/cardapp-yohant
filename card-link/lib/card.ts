@@ -92,7 +92,7 @@ export const DEFAULT_CARD: CardData = {
   icon: 'zap',
   about: 'Building small things that blink. Say hi @yohantdegoat',
   links: [],
-  handles: { yohant: 'instagram' },
+  handles: { yohantdegoat: 'instagram' },
   urls: {},
   ratio: '3:2',
   primary: THEMES.graphite.primary,
