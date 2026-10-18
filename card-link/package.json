@@ -1,0 +1,38 @@
+{
+  "name": "card-link",
+  "version": "1.0.0",
+  "private": true,
+  "main": "expo-router/entry",
+  "scripts": {
+    "start": "expo start",
+    "android": "expo start --android",
+    "ios": "expo start --ios",
+    "web": "expo start --web",
+    "build": "expo install --fix -- --legacy-peer-deps && expo export -p web"
+  },
+  "dependencies": {
+    "@expo/metro-runtime": "latest",
+    "expo": "latest",
+    "expo-constants": "latest",
+    "expo-haptics": "latest",
+    "expo-linking": "latest",
+    "expo-router": "latest",
+    "expo-status-bar": "latest",
+    "lucide-react-native": "latest",
+    "react": "latest",
+    "react-dom": "latest",
+    "react-native": "latest",
+    "react-native-gesture-handler": "latest",
+    "react-native-qrcode-svg": "latest",
+    "react-native-reanimated": "latest",
+    "react-native-safe-area-context": "latest",
+    "react-native-screens": "latest",
+    "react-native-svg": "latest",
+    "react-native-web": "latest",
+    "react-native-worklets": "latest"
+  },
+  "devDependencies": {
+    "@types/react": "latest",
+    "typescript": "latest"
+  }
+}

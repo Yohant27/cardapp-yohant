@@ -1,0 +1,21 @@
+{
+  "expo": {
+    "name": "Card Link",
+    "slug": "card-link",
+    "scheme": "cardlink",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "dark",
+    "plugins": [
+      "expo-router"
+    ],
+    "web": {
+      "bundler": "metro",
+      "output": "single",
+      "name": "Card Link",
+      "shortName": "Card Link",
+      "themeColor": "#000000",
+      "backgroundColor": "#000000"
+    }
+  }
+}

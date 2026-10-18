@@ -1,0 +1,12 @@
+{
+  "framework": null,
+  "installCommand": "npm install --legacy-peer-deps",
+  "buildCommand": "npx expo install --fix -- --legacy-peer-deps && npx expo export -p web",
+  "outputDirectory": "dist",
+  "rewrites": [
+    {
+      "source": "/(.*)",
+      "destination": "/index.html"
+    }
+  ]
+}
